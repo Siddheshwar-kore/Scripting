@@ -5,3 +5,4 @@ readonly NAME
 NAME=DEVOPS
 echo "my name is: $NAME"
 echo "0,9,7"
+echo "1,2,3"
