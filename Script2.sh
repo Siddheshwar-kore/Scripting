@@ -7,3 +7,4 @@ read b
 echo "Hello value of a is $a and value of b is $b"
 echo  "ok"
 echo  "one"
+echo  "not ok"
